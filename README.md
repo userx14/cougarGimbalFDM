@@ -40,7 +40,7 @@ total cost ≈30€
 ### 3.2 Inner axis
 - disassemble the original gimbal assembly, store away the screws and hex nuts from the old parts for reuse
 - put a 603 bearing on a m3 bolt and secure it with a hex nut
-- pass the metal part onto which the joystick screws on through the opening of the case. With the axis attached it will be difficult to pass it through afterwards.
+- pass the original metal part, which the joystick screws onto, through the opening of the case. With the axis attached it will be difficult to pass it through afterwards.
 - pass the prepared bolt through the axle hole in the original joystick metal part. Insert the bolt form the side which will later face face towards the magnet / labelplate!
 - (optional) protect the wires inside with teflon tape
 - on the other side add a hex nut, the second 603 bearing and again a hex nut
@@ -60,7 +60,7 @@ total cost ≈30€
 
 ### 3.5 Outer mounting plates
 - use the hex nuts saved from the original gimbal and insert the into the slots of the outer mounting plate
-- the hex nuts can be inserted now, the assembly has to be done inside the metal case and can be a bit tricky
+- the M3 hex nuts in the corners can be inserted now, the assembly has to be done inside the metal case and can be a bit tricky
 - insert the 608 bearing into opposite side and combine the pieces of the outer assembly encasing the inner gimbal assembly
 - do not screw them into the case just yet
 
