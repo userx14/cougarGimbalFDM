@@ -11,6 +11,7 @@ It replaces the potentiometers with contactless AS5600 angle sensors.
 - file, saw for steel
 - hex key 10mm
 - m3 thread cutter
+- soldering iron for as5600 pcbs
 
 ## 2 Bill of materials
 | Part name       | minimum count | rough price estimate for reasonable order quantities |
