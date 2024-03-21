@@ -9,7 +9,7 @@ It replaces the potentiometers with contactless AS5600 angle sensors.
 - microcontroller with i2c interface (preferably arduino)
 - screwdriver for m3 torx
 - file, saw for steel
-- hex key 10mm
+- wrench 10mm
 - m3 thread cutter
 - soldering iron for as5600 pcbs
 
