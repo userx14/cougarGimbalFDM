@@ -79,3 +79,9 @@ total cost ≈30€
 - enable the programming feature of the library by uncommenting the code inside the header and source file
 - programm the range of the sensor using `as5600.setZPosition(ZPOS);`, `as5600.setMPosition(MPOS);` and `as5600.burnAngle();`, refer to the burn_zpos example
 - ZPOS is the angle for which the sensor outputs 0V, MPOS is the position for 5V from the raw value.
+
+### 3.8 spring tensioning
+- file / saw a slot into the m6 boltssuch that the spring can hook into the end of the bolt and move somewhat freely
+- screw on a hex nut followed by a washer, place each of the prepared screws into the corners
+- attach the springs from the center assembly into the hooks
+- increase the spring tension by turning the m6 nut with a 10mm wrench
